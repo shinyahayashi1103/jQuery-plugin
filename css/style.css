@@ -1,0 +1,18 @@
+#title{
+    text-align: center;
+}
+
+.slider{
+    width: 60%;
+    margin:0 auto;
+}
+
+.slide-item{
+    width:100%;
+    max-height:400px;
+    object-fit: cover;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: black;
+}
